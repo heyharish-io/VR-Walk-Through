@@ -5,11 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Main_WalkThrough.unity
+    guid: e1b65e8fd0bcb4a4ca6385985d02a75c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3b586e495c328fd4aa71bae32d46f7b1, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 42929f8eb95fe0e44a5180b160261f0e, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 81d4b34fd0a3d71448d535bd5cfa6e6c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 849dd7916b6077a458f844ff425f6f72, type: 2}
   m_UseUCBPForAssetBundles: 0

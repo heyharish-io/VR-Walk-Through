@@ -36,3 +36,16 @@ Recordings/
 
 # Addressables build output
 ServerData/
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+.utmp/
+Assets/Editor/Migration/
+Assets/XR/Loaders/ARCoreLoader.asset
+Assets/XR/Loaders/ARCoreLoader.asset.meta
+Assets/XR/Loaders/SimulationLoader.asset
+Assets/XR/Loaders/SimulationLoader.asset.meta
+Assets/XR/Resources/
+Assets/XR/Settings/ARCoreSettings.asset
+Assets/XR/Settings/ARCoreSettings.asset.meta
+Assets/XR/Settings/XRSimulationSettings.asset
+Assets/XR/Settings/XRSimulationSettings.asset.meta
+Assets/XR/UserSimulationSettings/

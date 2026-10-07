@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "XR Device Controller Controls",
     "maps": [
         {
@@ -27,7 +28,7 @@
                     "name": "Grip",
                     "type": "Button",
                     "id": "c7937c78-cea4-4888-8feb-8d9da13005f2",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -36,7 +37,7 @@
                     "name": "Trigger",
                     "type": "Button",
                     "id": "3808b2c1-2f77-4a89-bc2a-34c0e0ef0ad3",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -291,17 +292,6 @@
                 },
                 {
                     "name": "",
-                    "id": "32072c42-6a30-4383-8362-d65ff475c920",
-                    "path": "<Keyboard>/g",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Grip",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "4f6dfc4a-38d9-455d-9364-3a188b0e9326",
                     "path": "<Mouse>/leftButton",
                     "interactions": "",
@@ -407,6 +397,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Secondary Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "236ce694-9ee1-4c91-8a2b-5a65f5907778",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grip",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
