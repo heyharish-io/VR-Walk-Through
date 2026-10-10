@@ -1,0 +1,10 @@
+{
+    "name": "Unity722170d996d349e93540.Httpsgithubcom.Editor",
+    "references": [
+      "Unity722170d996d349e93540.Httpsgithubcom"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

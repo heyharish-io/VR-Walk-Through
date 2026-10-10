@@ -1,0 +1,11 @@
+{
+    "name": "Unity722170d996d349e93540.Httpsgithubcom.Tests",
+    "references": [
+        "Unity722170d996d349e93540.Httpsgithubcom"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

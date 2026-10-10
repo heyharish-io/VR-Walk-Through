@@ -1,0 +1,16 @@
+/**
+ * Custom Gradle template for launcher module
+ * Excludes duplicate libopenxr_loader.so from openxr_loader package
+ * since Meta XR SDK's OVRPlugin already provides it.
+ */
+
+android {
+    packagingOptions {
+        // Exclude the duplicate libopenxr_loader.so from openxr_loader package
+        // since Meta XR SDK's OVRPlugin already provides it
+        exclude 'lib/arm64-v8a/libopenxr_loader.so'
+        exclude 'lib/armeabi-v7a/libopenxr_loader.so'
+        exclude 'lib/x86/libopenxr_loader.so'
+        exclude 'lib/x86_64/libopenxr_loader.so'
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Unity722170d996d349e93540.Httpsgithubcom.Editor.Tests",
+    "references": [
+        "Unity722170d996d349e93540.Httpsgithubcom.Editor",
+        "Unity722170d996d349e93540.Httpsgithubcom"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
