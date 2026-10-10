@@ -1,4 +1,4 @@
-﻿%YAML 1.1
+%YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &-8709749104875170953
 MonoBehaviour:
@@ -380,37 +380,37 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRSettings
   features:
-  - {fileID: -8260581472138123835}
-  - {fileID: 543414105219939186}
+  - {fileID: -4521111458496056139}
   - {fileID: -2311397786611991463}
+  - {fileID: -2594345905525808306}
+  - {fileID: 1161077172467241048}
+  - {fileID: -877135293078436189}
+  - {fileID: 760278131532644915}
+  - {fileID: -8096292624069180249}
+  - {fileID: -8229181805124911901}
+  - {fileID: 920899770204611331}
+  - {fileID: 5717203699101611528}
+  - {fileID: 2420551170631011879}
+  - {fileID: -4976831317549650764}
   - {fileID: 4875882016788506513}
   - {fileID: -6491150467774996338}
-  - {fileID: -4521111458496056139}
-  - {fileID: 8404522873184752802}
-  - {fileID: 3713188526637037960}
-  - {fileID: 5674953108662737028}
-  - {fileID: 5717203699101611528}
-  - {fileID: -8229181805124911901}
-  - {fileID: -4976831317549650764}
-  - {fileID: -4386895152685347385}
-  - {fileID: -6709138892334629942}
-  - {fileID: 2893933611076454650}
-  - {fileID: 920899770204611331}
-  - {fileID: -2594345905525808306}
-  - {fileID: 2420551170631011879}
-  - {fileID: -5990497208016851840}
-  - {fileID: 4331333725245145224}
-  - {fileID: -8096292624069180249}
   - {fileID: -6097172188125487001}
-  - {fileID: -8575922888362973086}
-  - {fileID: 760278131532644915}
+  - {fileID: -5990497208016851840}
+  - {fileID: -4386895152685347385}
   - {fileID: -1942648302298419318}
   - {fileID: 8946183447623619222}
-  - {fileID: 1161077172467241048}
   - {fileID: 6305053439103416791}
   - {fileID: 5066106654537034101}
+  - {fileID: 3713188526637037960}
+  - {fileID: -6709138892334629942}
+  - {fileID: 543414105219939186}
+  - {fileID: 8404522873184752802}
   - {fileID: -3704901917935726762}
-  - {fileID: -877135293078436189}
+  - {fileID: 5674953108662737028}
+  - {fileID: -8260581472138123835}
+  - {fileID: 4331333725245145224}
+  - {fileID: 2893933611076454650}
+  - {fileID: -8575922888362973086}
   customLoaderName: 
   m_renderMode: 1
   m_latencyOptimization: 0
@@ -1230,7 +1230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee92377a8e0c873458b71a94a80f3394, type: 3}
   m_Name: ApiLayersFeature Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.Features.ApiLayersFeature
-  m_enabled: 0
+  m_enabled: 1
   nameUi: API Layers
   version: 1.0.0
   featureIdInternal: com.unity.openxr.feature.apilayers
